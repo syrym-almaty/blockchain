@@ -6,7 +6,8 @@
 
 # Beginner-Level Projects
 
-> ### $\colorbox{green}{\color{white}{ 1. Hello World Smart Contract}}$
+
+<div style="background-color: green; color: white;">1. Hello World Smart Contract</div>
 
 ---
 
@@ -120,4 +121,3 @@
   - Handling user authentication with MetaMask.
 
   test
-  
