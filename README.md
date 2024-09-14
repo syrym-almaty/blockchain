@@ -6,8 +6,7 @@
 
 # Beginner-Level Projects
 
-
-<div style="background-color: green; color: white;">1. Hello World Smart Contract</div>
+> ### 1. Hello World Smart Contract
 
 ---
 
@@ -35,7 +34,7 @@
   - Deploying contracts on a local blockchain.
   - Interacting with contracts via MetaMask.
 
-> ### $\colorbox{green}{\color{white}{ 2. Simple Storage Contract}}$
+> ### 2. Simple Storage Contract
 
 ---
 
@@ -63,7 +62,7 @@
   - Writing unit tests for smart contracts.
   - Using Truffle console for interactions.
 
-> ### $\colorbox{green}{\color{white}{ 3. Creating an ERC-20 Token}}$
+> ### 3. Creating an ERC-20 Token
 
 - Objective: Learn about token standards and how to create a custom cryptocurrency.
 - Description: Develop and deploy an ERC-20 compliant token.
@@ -91,7 +90,7 @@
 
 # Intermediate-Level Projects
 
-> ### $\colorbox{green}{\color{white}{ 1. Decentralized Voting System }}$
+> ### 1. Decentralized Voting System
 
 ---
 
@@ -116,8 +115,9 @@
   - [`MetaMask`](https://portfolio.metamask.io/)
 
 - **Skills Gained**:
+
   - Smart contract design for voting mechanisms.
   - Front-end integration with smart contracts.
   - Handling user authentication with MetaMask.
 
-  test
+
