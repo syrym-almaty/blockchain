@@ -5,12 +5,9 @@
 ###### To help students from IITU Almaty Kazakhstan gain maximum experience and skills in blockchain technology, particularly in Solidity, smart contracts, MetaMask, and decentralized applications (DApps), it's essential to engage them with hands-on projects and real-world case studies. Below are several project ideas ranging from beginner to advanced levels, along with case studies that address real-world problems using modern and robust blockchain technologies.
 </br></br>
 ---
-# <p align="center" style="color: aquamarine;">Beginner-Level Projects</p>
+# <p align="center">Beginner-Level Projects</p>
 
 > ## <p align="center">1. Hello World Smart Contract</p>
-<p>This is some <mark>highlighted</mark> text.</p>
-<p>This is some <mark style="background-color: pink;">highlighted</mark> text.</p>
-<p>This is some <span style="background-color: lightblue;">highlighted</span> text.</p>
 
 ---
 
@@ -125,40 +122,130 @@
   - Handling user authentication with MetaMask.
 
 
-> ## 2. Crowdfunding Platform
+> ## <p align="center">2. Crowdfunding Platform</p>
 
 - **Objective**: 
   - Develop a platform that connects project creators with backers.
 - **Description**: 
   - Implement smart contracts that manage funding rounds, contributions, and refunds if funding goals are not met.
 - **Technologies**:
-  - Solidity
-  - Truffle or Hardhat: 
+  - [`Solidity`](https://solidity-by-example.org/hello-world/): Programming language for writing smart contracts.
+
+  ```javascript
+  pragma solidity ^0.8.26;
+
+  contract HelloWorld {
+      string public greet = "Hello World!";
+  }
+  ```
+  - `Truffle` or `Hardhat`: 
     - For development and testing.
-  - IPFS: 
+  - `IPFS`: 
     - Decentralized storage for project details.
-  - MetaMask
+  - `MetaMask`
 - **Skills Gained**:
   - Managing multiple smart contracts.
   - Handling time-based conditions and events.
   - Integrating decentralized storage solutions.
 
-> ## 3. Decentralized Marketplace
+> ## <p align="center">3. Decentralized Marketplace</p>
 
 - **Objective**: 
   - Create a peer-to-peer marketplace without intermediaries.
 - **Description**: 
-  - Develop a DApp where users can list items for sale and purchase goods using cryptocurrency.
+  - Develop a `DApp` where users can list items for sale and purchase goods using cryptocurrency.
 - **Technologies**:
-  - Solidity
-  - Front-end frameworks (React.js, Vue.js)
-  - IPFS or Filecoin: 
+  - [`Solidity`](https://solidity-by-example.org/hello-world/): Programming language for writing smart contracts.
+
+  ```javascript
+  pragma solidity ^0.8.26;
+
+  contract HelloWorld {
+      string public greet = "Hello World!";
+  }
+  ```
+  - Front-end frameworks (`React.js`, `Vue.js`)
+  - `IPFS` or `Filecoin`: 
     - For storing item images and descriptions.
-  - MetaMask
+  - `MetaMask`
 - **Skills Gained**:
   - Building complex smart contract systems.
   - Secure handling of financial transactions.
   - User interface design for DApps.
 
 </br></br></br></br></br></br>
+---
+
+> # <p align="center">Advanced-Level Projects</p>
+
+> ## <p align="center">1. Decentralized Finance (DeFi) Application</p>
+
+- **Objective**: 
+  - Explore the world of `DeFi` by building lending or staking platforms.
+- **Description**: 
+  - Create a platform where users can lend or borrow assets, earn interest, or participate in liquidity pools.
+- **Technologies**:
+  - [`Solidity`](https://solidity-by-example.org/hello-world/): Programming language for writing smart contracts.
+
+  ```javascript
+  pragma solidity ^0.8.26;
+
+  contract HelloWorld {
+      string public greet = "Hello World!";
+  }
+  ```
+  - `Uniswap` or `Aave Protocols`: 
+    - For integrating existing DeFi functionalities.
+  - `Chainlink Oracles`: 
+    - For fetching off-chain data.
+  - `Layer 2` Solutions (e.g., Polygon): 
+    - For scalability.
+- **Skills Gained**:
+  - Understanding `DeFi` concepts and protocols.
+  - Implementing `smart contract` interoperability.
+  - Managing security for financial applications.
+
+> ## <p align="center">2. Supply Chain Management System</p>
+
+- **Objective**: 
+  - Enhance transparency and traceability in supply chains using blockchain.
+- **Description**: 
+  - Develop a system that records the journey of products from origin to consumer.
+- **Technologies**:
+  - `Hyperledger Fabric` or `Ethereum`
+  - `IoT Integration`: 
+    - For real-time data input.
+  - `IPFS`: 
+    -For storing documents.
+-**Skills Gained**:
+  - Designing permissioned vs. public blockchain solutions.
+  - Integrating hardware devices with blockchain.
+  - Data privacy and compliance considerations.
+
+> ## <p align="center">3. NFT Marketplace</p>
+
+- **Objective**: 
+  - Dive into non-fungible tokens by creating a platform to mint, buy, and sell `NFTs`.
+- **Description**: 
+  - Build a marketplace where artists can tokenize their work and collectors can purchase unique digital assets.
+- **Technologies**:
+  - [`Solidity`](https://solidity-by-example.org/hello-world/): Programming language for writing smart contracts.
+
+  ```javascript
+  pragma solidity ^0.8.26;
+
+  contract HelloWorld {
+      string public greet = "Hello World!";
+  }
+  ```
+  - `ERC-721` and `ERC-1155` Standards: For NFTs.
+  - `IPFS` or `Arweave`: 
+    - For storing digital assets.
+- MetaMask
+-**Skills Gained**:
+  - Implementing `NFT` standards.
+  - Handling ownership and transfer of unique assets.
+  - Dealing with metadata and asset storage.
+
+  </br></br></br></br></br></br>
 ---
