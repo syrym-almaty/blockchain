@@ -3,10 +3,14 @@
 > # <p align="center">Project Ideas and Case Studies for Gaining Practical Experience in Blockchain Technologies</p>
 
 ###### To help students from IITU Almaty Kazakhstan gain maximum experience and skills in blockchain technology, particularly in Solidity, smart contracts, MetaMask, and decentralized applications (DApps), it's essential to engage them with hands-on projects and real-world case studies. Below are several project ideas ranging from beginner to advanced levels, along with case studies that address real-world problems using modern and robust blockchain technologies.
+</br></br>
+---
+# <p align="center" style="color: aquamarine;">Beginner-Level Projects</p>
 
-# Beginner-Level Projects
-
-> ### 1. Hello World Smart Contract
+> ## <p align="center">1. Hello World Smart Contract</p>
+<p>This is some <mark>highlighted</mark> text.</p>
+<p>This is some <mark style="background-color: pink;">highlighted</mark> text.</p>
+<p>This is some <span style="background-color: lightblue;">highlighted</span> text.</p>
 
 ---
 
@@ -34,7 +38,7 @@
   - Deploying contracts on a local blockchain.
   - Interacting with contracts via MetaMask.
 
-> ### 2. Simple Storage Contract
+> ## <p align="center">2. Simple Storage Contract</p>
 
 ---
 
@@ -62,7 +66,7 @@
   - Writing unit tests for smart contracts.
   - Using Truffle console for interactions.
 
-> ### 3. Creating an ERC-20 Token
+> ## <p align="center">3. Creating an ERC-20 Token</p>
 
 - Objective: Learn about token standards and how to create a custom cryptocurrency.
 - Description: Develop and deploy an ERC-20 compliant token.
@@ -85,12 +89,12 @@
   - Understanding token standards.
   - Using inheritance and libraries in Solidity.
   - Managing token supply and balances.
-
+</br></br></br></br></br></br>
 ---
 
-# Intermediate-Level Projects
+# <p align="center">Intermediate-Level Projects</p>
 
-> ### 1. Decentralized Voting System
+> ## <p align="center">1. Decentralized Voting System</p>
 
 ---
 
@@ -121,3 +125,40 @@
   - Handling user authentication with MetaMask.
 
 
+> ## 2. Crowdfunding Platform
+
+- **Objective**: 
+  - Develop a platform that connects project creators with backers.
+- **Description**: 
+  - Implement smart contracts that manage funding rounds, contributions, and refunds if funding goals are not met.
+- **Technologies**:
+  - Solidity
+  - Truffle or Hardhat: 
+    - For development and testing.
+  - IPFS: 
+    - Decentralized storage for project details.
+  - MetaMask
+- **Skills Gained**:
+  - Managing multiple smart contracts.
+  - Handling time-based conditions and events.
+  - Integrating decentralized storage solutions.
+
+> ## 3. Decentralized Marketplace
+
+- **Objective**: 
+  - Create a peer-to-peer marketplace without intermediaries.
+- **Description**: 
+  - Develop a DApp where users can list items for sale and purchase goods using cryptocurrency.
+- **Technologies**:
+  - Solidity
+  - Front-end frameworks (React.js, Vue.js)
+  - IPFS or Filecoin: 
+    - For storing item images and descriptions.
+  - MetaMask
+- **Skills Gained**:
+  - Building complex smart contract systems.
+  - Secure handling of financial transactions.
+  - User interface design for DApps.
+
+</br></br></br></br></br></br>
+---
